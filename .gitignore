@@ -1,5 +1,5 @@
 # api keys
-.env       <-- add this line
+.env
 
 node_modules/**/*
 .expo/*
