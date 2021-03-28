@@ -29,7 +29,7 @@ export default(() => {
     }
 
     useEffect(() =>{
-        searchApi('pasta')
+        searchApi('street')
     }, []);
 
     return [searchApi, results, errorMessage ]
